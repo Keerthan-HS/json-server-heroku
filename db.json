@@ -1,16 +1,301 @@
 {
-  "posts":[
+  "products": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "Vehicle": "Heavy Vehicle",
+      "capacity": "0",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71mtuBFL3zL._SL1380_.jpg",
+      "price": "Rs 2500 /-",
+      "contact": 7012847026,
+      "location": "Kerala",
+      "postedon": "25 June 2021"
+    },
+    {
+      "Vehicle": "Mini Truck",
+      "capacity": "10",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81lH614moQL._SL1500_.jpg",
+      "price": "Rs 1500 /-",
+      "contact": 9567823456,
+      "location": "Eluru",
+      "postedon": "08 May 2021"
+    },
+    {
+      "Vehicle": "Heavy Vehicle",
+      "capacity": "20",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/810NeIMzfaL._SL1500_.jpg",
+      "price": "Rs 2000 /-",
+      "contact": 9037196635,
+      "location": "Eluru",
+      "postedon": "08 May 2021"
+    },
+    {
+      "Vehicle": "Heavy Vehicle",
+      "capacity": "20",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61u%2BNKkFnmL._SL1000_.jpg",
+      "price": "Rs 2500 /-",
+      "contact": 9656157811,
+      "location": "Eluru",
+      "postedon": "08 May 2021"
+    },
+    {
+      "Vehicle": "Tractor",
+      "capacity": "5",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61vcCvcgedL._SL1500_.jpg",
+      "price": "Rs 1000 /-",
+      "contact": 9562065563,
+      "location": "Eluru",
+      "postedon": "08 May 2021"
+    },
+    {
+      "Vehicle": "Heavy Vehicle",
+      "capacity": "0",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71mtuBFL3zL._SL1380_.jpg",
+      "price": "Rs 2500 /-",
+      "contact": 7012847026,
+      "location": "Kerala",
+      "postedon": "25 June 2021"
     }
   ],
-  "comments" : [
+  "medicines": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "supply": "Med",
+      "type": "Fish Medicine",
+      "qualtity": "10 kg",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41aJHjpoDAL.jpg",
+      "price": "Rs 2500 /-",
+      "contact": 7012847026,
+      "location": "Kerala",
+      "postedon": "25 June 2021"
+    },
+    {
+      "supply": "Chepala Mandu",
+      "type": "Fish Medicine",
+      "qualtity": "12 kg",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71WZryDeCZL._SL1500_.jpg",
+      "price": "Rs 1500 /-",
+      "contact": 9567823456,
+      "location": "Eluru",
+      "postedon": "08 May 2021"
+    },
+    {
+      "supply": "Fish Food",
+      "type": "Fish Feed",
+      "qualtity": "120 Bottle",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61Dm7mUX-MS._SL1200_.jpg",
+      "price": "Rs 10 /-",
+      "contact": 9037196635,
+      "location": "Eluru",
+      "postedon": "08 May 2021"
+    },
+    {
+      "supply": "Shrimp food ",
+      "type": "Prawns Medicine",
+      "qualtity": "30 kg",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/819b0VunW3L._SL1500_.jpg",
+      "price": "Rs 200 /-",
+      "contact": 9656157811,
+      "location": "Jeelugu Milli",
+      "postedon": "08 May 2021"
+    },
+    {
+      "supply": "Med",
+      "type": "Fish Medicine",
+      "qualtity": "10 kg",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81tk5a1NdrL._SL1500_.jpg",
+      "price": "Rs 800 /-",
+      "contact": 9562065563,
+      "location": "Eluru",
+      "postedon": "08 May 2021"
+    },
+    {
+      "supply": "Med",
+      "type": "Fish Medicine",
+      "qualtity": "10 kg",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41aJHjpoDAL.jpg",
+      "price": "Rs 2500 /-",
+      "contact": 7012847026,
+      "location": "Kerala",
+      "postedon": "25 June 2021"
+    }
+  ],
+  "tools": [
+    {
+      "supply": "motor mecha",
+      "type": "motors",
+      "qualtity": "1",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81rPKBlXwVL._SL1500_.jpg",
+      "price": "Rs 2500 /-",
+      "contact": 7012847026,
+      "location": "Kerala",
+      "postedon": "25 June 2021"
+    },
+    {
+      "supply": "Ganga Pipes ",
+      "type": "Pipes",
+      "qualtity": "10",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51KkYyyVOoL._SL1500_.jpg",
+      "price": "Rs 200 /-",
+      "contact": 9567823456,
+      "location": "Eluru",
+      "postedon": "08 May 2021"
+    },
+    {
+      "supply": "Raju Nets ",
+      "type": "Nets",
+      "qualtity": "120 Bottle",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71OKIAl-DnS._SL1024_.jpg",
+      "price": "Rs 300 /-",
+      "contact": 9037196635,
+      "location": "Eluru",
+      "postedon": "08 May 2021"
+    },
+    {
+      "supply": "Raju fan Sets  ",
+      "type": "Fan sets ",
+      "qualtity": "5",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71hpgqSjt6L._SL1500_.jpg",
+      "price": "Rs 1000 /-",
+      "contact": 9656157811,
+      "location": "Jeelugu Milli",
+      "postedon": "08 May 2021"
+    }
+  ],
+  "priceReviews": [
+    {
+      "name": "Botchee",
+      "rate": " RS 120 /-"
+    },
+    {
+      "name": "Korameenu",
+      "rate": " RS 120 /-"
+    },
+    {
+      "name": "NattiGurakka",
+      "rate": " RS 120 /-"
+    },
+    {
+      "name": "Pandugappa",
+      "rate": " RS 120 /-"
+    },
+    {
+      "name": "Pulasa",
+      "rate": " RS 120 /-"
+    },
+    {
+      "name": "Roopchand",
+      "rate": " RS 120 /-"
+    },
+    {
+      "name": "Seelavathi",
+      "rate": " RS 120 /-"
+    },
+    {
+      "name": "Pangassu",
+      "rate": " RS 120 /-"
+    },
+    {
+      "name": "Walaga",
+      "rate": " RS 120 /-"
+    },
+    {
+      "name": "Catfish",
+      "rate": " RS 120 /-"
+    }
+  ],
+  "countReviews": [
+    {
+      "number": "8",
+      "rate": " RS 120 /-"
+    },
+    {
+      "number": "4",
+      "rate": " RS 120 /-"
+    },
+    {
+      "number": "9",
+      "rate": " RS 120 /-"
+    },
+    {
+      "number": "12",
+      "rate": " RS 120 /-"
+    },
+    {
+      "number": "15",
+      "rate": " RS 120 /-"
+    },
+    {
+      "number": "2",
+      "rate": " RS 120 /-"
+    },
+    {
+      "id": 1234,
+      "number": "8384",
+      "rate": " RS 220 /-"
+    },
+    {
+      "id": 134,
+      "number": "8384",
+      "rate": " RS 220 /-"
+    },
+    {
+      "id": 1345,
+      "number": "8384",
+      "rate": " RS 220 /-"
+    },
+    {
+      "id": 135,
+      "number": "8384",
+      "rate": " RS 220 /-"
+    },
+    {
+      "id": 1935,
+      "number": "8384",
+      "rate": " RS 220 /-"
+    },
+    {
+      "id": 1999,
+      "number": "834",
+      "rate": " RS 20 /-"
+    }
+  ],
+  "fishes": [
+    {
+      "fish": "Botchee",
+      "size": "5 Inches",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61D7wVsfarL._SL1000_.jpg",
+      "number": "800",
+      "location": "Narasapuram",
+      "price": "Rs 2 /-",
+      "seller": "David Raju",
+      "contact": 7012847026,
+      "postedon": "09 Feb 2021"
+    },
+    {
+      "fish": "Walaga",
+      "size": "8 Inches",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71LIVhfPy1L._SL1000_.jpg",
+      "number": "20",
+      "location": "Andhra",
+      "price": "Rs 200 /-",
+      "seller": "David Raju",
+      "contact": 7012847026,
+      "postedon": "09 Feb 2021"
+    },
+    {
+      "fish": "Pulasa",
+      "size": "9 Inches",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61l2YdAY6nL._SL1001_.jpg",
+      "number": "800",
+      "location": "Narasapuram",
+      "price": "Rs 32 /-",
+      "seller": "David Raju",
+      "contact": 7012847026,
+      "postedon": "09 Feb 2021"
+    },
+    {
+      "id": 1
+    },
+    {
+      "id": 1203
     }
   ]
 }
