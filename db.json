@@ -53,6 +53,7 @@
       "contact": 7012847026,
       "location": "Kerala",
       "postedon": "25 June 2021"
+<<<<<<< HEAD
     }
   ],
   "medicines": [
@@ -117,6 +118,72 @@
       "postedon": "25 June 2021"
     }
   ],
+=======
+    }
+  ],
+  "medicines": [
+    {
+      "supply": "Med",
+      "type": "Fish Medicine",
+      "qualtity": "10 kg",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41aJHjpoDAL.jpg",
+      "price": "Rs 2500 /-",
+      "contact": 7012847026,
+      "location": "Kerala",
+      "postedon": "25 June 2021"
+    },
+    {
+      "supply": "Chepala Mandu",
+      "type": "Fish Medicine",
+      "qualtity": "12 kg",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71WZryDeCZL._SL1500_.jpg",
+      "price": "Rs 1500 /-",
+      "contact": 9567823456,
+      "location": "Eluru",
+      "postedon": "08 May 2021"
+    },
+    {
+      "supply": "Fish Food",
+      "type": "Fish Feed",
+      "qualtity": "120 Bottle",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61Dm7mUX-MS._SL1200_.jpg",
+      "price": "Rs 10 /-",
+      "contact": 9037196635,
+      "location": "Eluru",
+      "postedon": "08 May 2021"
+    },
+    {
+      "supply": "Shrimp food ",
+      "type": "Prawns Medicine",
+      "qualtity": "30 kg",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/819b0VunW3L._SL1500_.jpg",
+      "price": "Rs 200 /-",
+      "contact": 9656157811,
+      "location": "Jeelugu Milli",
+      "postedon": "08 May 2021"
+    },
+    {
+      "supply": "Med",
+      "type": "Fish Medicine",
+      "qualtity": "10 kg",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81tk5a1NdrL._SL1500_.jpg",
+      "price": "Rs 800 /-",
+      "contact": 9562065563,
+      "location": "Eluru",
+      "postedon": "08 May 2021"
+    },
+    {
+      "supply": "Med",
+      "type": "Fish Medicine",
+      "qualtity": "10 kg",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41aJHjpoDAL.jpg",
+      "price": "Rs 2500 /-",
+      "contact": 7012847026,
+      "location": "Kerala",
+      "postedon": "25 June 2021"
+    }
+  ],
+>>>>>>> 8aab7f0e27639f9236ed72965ad82d8301cad2ec
   "tools": [
     {
       "supply": "motor mecha",
@@ -225,6 +292,7 @@
     {
       "number": "2",
       "rate": " RS 120 /-"
+<<<<<<< HEAD
     },
     {
       "id": 1234,
@@ -255,6 +323,8 @@
       "id": 1999,
       "number": "834",
       "rate": " RS 20 /-"
+=======
+>>>>>>> 8aab7f0e27639f9236ed72965ad82d8301cad2ec
     }
   ],
   "fishes": [
@@ -280,6 +350,7 @@
       "contact": 7012847026,
       "postedon": "09 Feb 2021"
     },
+<<<<<<< HEAD
     {
       "fish": "Pulasa",
       "size": "9 Inches",
@@ -296,6 +367,19 @@
     },
     {
       "id": 1203
+=======
+    {
+      "fish": "Pulasa",
+      "size": "9 Inches",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61l2YdAY6nL._SL1001_.jpg",
+      "number": "800",
+      "location": "Narasapuram",
+      "price": "Rs 32 /-",
+      "seller": "David Raju",
+      "contact": 7012847026,
+      "postedon": "09 Feb 2021"
+>>>>>>> 8aab7f0e27639f9236ed72965ad82d8301cad2ec
     }
   ]
+  
 }
